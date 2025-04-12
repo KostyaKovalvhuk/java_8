@@ -25,3 +25,6 @@ cards.push('Карточка-7');
 
 updateCard(cards, 2, "Карточка-3.1");
 console.log(cards);  
+
+
+
